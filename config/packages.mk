@@ -7,7 +7,8 @@ PRODUCT_PACKAGES += \
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
-    Recorder
+    Recorder \
+    WallpapersBReel2018
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
