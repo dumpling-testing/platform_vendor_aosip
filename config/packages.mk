@@ -4,7 +4,8 @@ PRODUCT_PACKAGES += \
     LiveWallpapers \
     LiveWallpapersPicker \
     PixelThemes \
-    ThemePicker
+    ThemePicker \
+    WallpaperPicker2
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
