@@ -5,6 +5,10 @@ PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     ThemePicker
 
+# DerpFest packages
+PRODUCT_PACKAGES += \
+    Recorder
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
@@ -18,3 +22,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libprotobuf-cpp-full \
     librsjni
+
+# Some permissions
+PRODUCT_COPY_FILES += \
+    vendor/aosip/prebuilt/common/etc/permissions/privapp-permissions-recorder.xml:system/etc/permissions/privapp-permissions-recorder.xml
