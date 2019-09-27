@@ -121,6 +121,10 @@ include vendor/aosip/config/version.mk
 PRODUCT_PACKAGES += \
     PixelSetupWizardOverlay
 
+# Pixel Launcher
+PRODUCT_PACKAGES += \
+    NexusLauncherReleaseOverlay
+
 # Themed bootanimation
 TARGET_MISC_BLOCK_OFFSET ?= 0
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
