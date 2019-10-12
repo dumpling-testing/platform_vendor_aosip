@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
     Gallery2 \
     LiveWallpapers \
     LiveWallpapersPicker \
+    PixelThemes \
     ThemePicker
 
 # DerpFest packages
