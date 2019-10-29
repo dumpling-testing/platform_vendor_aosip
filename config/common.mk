@@ -125,10 +125,6 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 PRODUCT_PACKAGES += \
     PixelSetupWizardOverlay
 
-# Pixel Launcher
-PRODUCT_PACKAGES += \
-    NexusLauncherReleaseOverlay
-
 # Themed bootanimation
 TARGET_MISC_BLOCK_OFFSET ?= 0
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
