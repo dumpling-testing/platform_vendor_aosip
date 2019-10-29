@@ -10,8 +10,7 @@ PRODUCT_PACKAGES += \
 # DerpFest packages
 PRODUCT_PACKAGES += \
     OmniRecord \
-    Recorder \
-    WallpapersBReel2018
+    Recorder
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
